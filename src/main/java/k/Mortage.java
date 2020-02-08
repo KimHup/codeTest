@@ -70,7 +70,7 @@ class Mortage {
                 FixedMonthlyPayment =  loan * a / b;
                 
                 System.out.println("****************************************************************************************************");
-                System.out.println("Prospect "+i+": "+customer+" wants to borrow "+roundToTwoDecimals(loan)+" € for a period of "+years.intValue()+" years and pay "+roundToTwoDecimals(FixedMonthlyPayment)+" € each month");
+                System.out.println("Prospect "+i+": "+customer+" wants to borrow "+roundToTwoDecimals(loan)+" \u20AC for a period of "+years.intValue()+" years and pay "+roundToTwoDecimals(FixedMonthlyPayment)+" € each month");
                 System.out.println("****************************************************************************************************");
             }
         } catch (FileNotFoundException e) {
