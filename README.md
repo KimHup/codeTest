@@ -1,8 +1,8 @@
 Code test - Mortage plan
 
-To run:
-
+go to the folder:
 cd codeTest
 
-java  -cp target/k-1.0-SNAPSHOT.jar k.Mortage
+run:
+java  -cp target/k-1.0-SNAPSHOT.jar '-Dfile.encoding=UTF-8' k.Mortage
 
