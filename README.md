@@ -1,5 +1,9 @@
 # Code test - Mortage plan
 
+### clone the folder:
+
+git clone https://github.com/KimHup/codeTest.git
+
 ### go to the folder:
 
 cd codeTest
