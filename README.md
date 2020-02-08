@@ -1,4 +1,5 @@
 Code test - Mortage plan
 
-
+To run:
+java  -cp target/k-1.0-SNAPSHOT.jar k.Mortage
 
